@@ -1,0 +1,15 @@
+clean_data/*
+data/
+wandb/
+logs/
+adv_data/
+source_detectors/
+target_detectors/
+*.pth
+logs
+*__pycache__/
+__pycache__/
+*.pt
+.vscode/
+*.json
+ckpt/
